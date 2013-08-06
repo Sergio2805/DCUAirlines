@@ -1,0 +1,27 @@
+Pagina:
+	w: 1024
+	h: 720
+Titulos:
+	Fuente: Arial
+	Tamaño: 48
+	Color: falta por elegir
+SubTitulos o cabezales de formulario
+	Fuente: Tahoma
+	Tamaño: 16
+	Color: Falta por elegir
+TextField
+	Fuente: Arial
+	Tamaño: 13
+	Color: Negro
+TextPlane:
+	Fuente: Arial
+	Tamaño: 14
+	Color: Falta por elegir
+Botones:
+	Fuente: Arial
+	Tamaño: 14
+	Color: Falta por elegir
+ComboBox:
+	Fuente: Arial
+	Tamaño: 13
+	Color: Negro
